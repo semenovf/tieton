@@ -1,0 +1,9 @@
+{
+    "Keys": ["tieton"],
+    "Provider": "tieton",
+    "Version": 100,
+    "Experimental": false,
+    "Features": [
+        "OfflineMappingFeature"
+    ]
+}

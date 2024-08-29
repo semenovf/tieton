@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">main.qml</file>
+    </qresource>
+    <qresource prefix="/Map">
+        <file alias="MapUI.qml">MapUI.qml</file>
+    </qresource>
+</RCC>
